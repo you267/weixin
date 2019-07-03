@@ -1,0 +1,64 @@
+<xml>
+<ToUserName><![CDATA[gh_ad609413a8d1]]></ToUserName>
+<FromUserName><![CDATA[osxWF5_2VEAz1Pc4tJGQZPvsyFa4]]></FromUserName>
+<CreateTime>1561646090</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hello]]></Content>
+<MsgId>22357394758716405</MsgId>
+</xml>
+<!-- 参数	描述
+ToUserName	开发者微信号
+FromUserName	发送方帐号（一个OpenID）
+CreateTime	消息创建时间 （整型）單位秒
+MsgType	消息类型，文本为text
+Content	文本消息内容
+MsgId	消息id，64位整型 -->
+
+
+<!--  
+{
+           "touser":"osxWF5_2VEAz1Pc4tJGQZPvsyFa4",
+           "template_id":"ThEOZDHFsNTHqtzis2RnoCu-NwfrOyYQzet5VqyeOlY",
+          
+          
+           "data":{
+                   "first": {
+                       "value":"您有新的反馈信息啦！",
+                       "color":"#173177"
+                   },
+                   "company":{
+                       "value":"课得在线",
+                       "color":"#173177"
+                   },
+                   "time": {
+                       "value":"2019年6月29日",
+                       "color":"#173177"
+                   },
+                   "result": {
+                       "value":"面试通过！！",
+                       "color":"#173177"
+                   },
+                   "remark":{
+                       "value":"请和本公司人事专员联系！",
+                       "color":"#173177"
+                   }
+           }
+       }
+       -->
+       
+       
+<!-- 
+
+"media_id":""
+
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=23_XssTOoQCZNA66K7jLKsPUSTRbAgnNneN21dABUKmXT852CuD-z122V3bN0odAVXzDMuYOw3N32_1f3IL3vMGYONlys47o2Ge6NE5VUOtWDATlF-GJJOYmEP4iG5zDH0IOMYN9-AwyPYgsTEZFWNbAAATKB&media_id=r2c00iocCyc2vCff9hkL0t-95AP1-dYlqStbql_Er1fa9ihkC8UuEPO1NOpDkfR4
+
+ -->
+ 
+ 
+<!-- 
+
+{"expire_seconds": 600, "action_name": "QR_STR_SCENE", "action_info": {"scene": {"scene_str": "zhangyi"}}}
+
+ticket:gQGj7zwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyM1NvWDhzUGxlNUQxNU8wbzF0Y3EAAgQaPhhdAwRYAgAA
+ -->
